@@ -1,1 +1,1 @@
-# CI/CD Practive
+# CI/CD Practice
